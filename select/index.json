@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "flame of hope",
+  "base_artist": "Morfonica",
+  "createdAt": "2026-01-12T13:38:48.338366Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Flame Of Hope",
+      "artist": "Orchestral Manoeuvres In the Dark",
+      "has_synced": true,
+      "path": "select/01_Flame_Of_Hope_Orchestral_Manoeuvres_In_the_Dark.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Flame Of Hope",
+      "artist": "Orchestral Manoeuvres In The Dark (OMD)",
+      "has_synced": true,
+      "path": "select/02_Flame_Of_Hope_Orchestral_Manoeuvres_In_The_Dark_(OMD).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "flame of hope",
+      "artist": "Morfonica",
+      "has_synced": true,
+      "path": "select/03_flame_of_hope_Morfonica.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "flame of hope",
+      "artist": "Morfonica",
+      "has_synced": true,
+      "path": "select/04_flame_of_hope_Morfonica.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Flame Of Hope",
+      "artist": "OMD",
+      "has_synced": true,
+      "path": "select/05_Flame_Of_Hope_OMD.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Flame Of Hope",
+      "artist": "O.M.D.",
+      "has_synced": true,
+      "path": "select/06_Flame_Of_Hope_O.M.D..lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "flame of hope (inst.)",
+      "artist": "Morfonica",
+      "has_synced": true,
+      "path": "select/07_flame_of_hope_(inst.)_Morfonica.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "flame of hope",
+      "artist": "Morfonica",
+      "has_synced": false,
+      "path": "select/pl_01_flame_of_hope_Morfonica.txt"
+    }
+  ]
+}
